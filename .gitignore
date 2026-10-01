@@ -1,0 +1,5 @@
+.build/
+Package.resolved
+.DS_Store
+*.xcodeproj
+.swiftpm/xcode/
